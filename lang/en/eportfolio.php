@@ -27,6 +27,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'ePortfolio Grading';
 $string['modulename'] = 'ePortfolio Grading';
+$string['modulenameplural'] = 'ePortfolio Gradings';
 
 $string['eportfolioname'] = 'Title';
 
